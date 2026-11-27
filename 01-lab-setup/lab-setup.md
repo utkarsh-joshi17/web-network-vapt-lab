@@ -1,1 +1,7 @@
-
+1. Installed VirtualBox ![](screenshots/01-virtualbox-version.png.png)
+2. Configured host-only network + DHCP ![](screenshots/02-host-only-dhcp.png.png)
+3. Imported Kali, set network adapters ![](screenshots/03-kali-network-adapters.png.png)
+4. Created Metasploitable VM, obtained IP ![](screenshots/04-matasploitable-ifconfig.png.png)
+5. Deployed Juice Shop with Docker ![](screenshots/05-juice-shop-running.png.png)
+6. Verified connectivity ![](screenshots/06-kali-ping-metasploitable.png.png)
+7. Baseline Nmap scan ![](screenshots/07-nmap-baseline.png.png)
